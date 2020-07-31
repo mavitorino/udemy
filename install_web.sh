@@ -1,3 +1,4 @@
 apt-get update -y
-apt-get install -y nginx
+echo " Estou Aqui"
+pkg --configure -a
 
